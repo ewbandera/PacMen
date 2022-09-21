@@ -1,9 +1,8 @@
 # pacmen
-Factory for making pacmen
-You are given a starter.html code.
-When button "make one" is pressed you need to complete the code 
-to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
-You also need to make each pacman bounce off any wall it hits. 
-Start by getting at least one pacman positioned and viewable. 
+Title: Pacmen Factory
+Description:  This project is a demonstration of user interface elements, shadow dom, javascript factories, and a recursive timer. 
+How to Run: To use the app, add any number of Pac Men by clicking the "Add PacMan" button. Then click the "Start Game" button and the objects will move throughout the screen.
+Roadmap for Future Improvements:  Interactive buttons for controlling pacmen.
+License Information:  MIT class project.  Please refer to LICENSE file for further information
 
 <img src="PacMan1.png">
